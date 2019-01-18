@@ -1,4 +1,4 @@
 sceneSetups:
-- path: C:/Users/871440/Desktop/game design exam/Assets/_scenes/exam.unity
+- path: Assets/_scenes/Main.unity
   isLoaded: 1
   isActive: 1
